@@ -50,7 +50,7 @@ The first time you run screenshooter, macOS may prompt you to allow Terminal to 
 
 ![screen-recording.png](screen-recording.png)
 
-Open System Preferences, navigate to the Security & Privacy pane, click the Privacy tab, scroll down to Screen Recording, and tick the checkbox for Terminal. When prompted, quit Terminal and open it again.
+Open System Settings, navigate to the Privacy & Security pane, scroll down to Screen & System Audio Recording, and toggle the switch for Terminal. When prompted, quit Terminal and open it again.
 
 ## stopping screenshooter
 
